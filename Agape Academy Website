@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        *{
+            text-decoration:none ;
+        }
+        .navbar{
+            background-color: purple; font-family:'Times New Roman', Times, serif; padding: right 15px;padding-left: 15px;
+        }
+        .navbar{
+            display:flex; align-items: center;
+        }
+        .logo a{ 
+            font-size: 35px; font-weight: 600; color: aliceblue;
+
+        }
+        li {
+          list-style:none; display: inline-block;
+        }
+        li {
+         float: right; justify-content: space-between;
+        }
+        li a {
+          display: block;
+         padding: 8px;
+         background-color: #a31841;
+       }
+
+        </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Agape">
+    <meta name="description" content="Agape">
+    <title>Document</title>
+</head>
+<body bgcolor="#6832a8">
+    <nav>
+        <label><h1>Agape Academy International</h1></label>
+     <ul>
+       <li><a href="">Home</a></li>
+       <li><a href="">Contacts</a></li>
+       <li><a href="">About us</a></li>
+       <li><a href="">Gallery</a></li>
+     </ul>
+    </div>
+</div>
+<div class="hero">
+  <h1>Welcome to Agape!</h1>
+  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nihil consectetur suscipit consequuntur possimus culpa! Magni voluptatibus unde atque soluta reprehenderit ducimus, suscipit voluptatem, quasi aperiam nesciunt odio minima facilis quae.</p>
+  <div class="about">
+    <div class="about-text">
+      <h2>About us</h2>
+      <p>Do you ever feel like a rubber bag?? Here is why. Laudantium sapiente id mollitia! Voluptatum tenetur explicabo laborum eligendi? Consectetur nisi asperiores suscipit inventore vel illo unde harum, nostrum culpa soluta! Quia?</p>
+    </nav>  
+          <div class="GALLERY">
+            <h2>Gallery</h2>
+            <h1>School Trips</h1><p>Do you ever feel like a rubber bag, do you know why? should I tell you why? Here is why.</p>
+            <img src="school-trip.jpg"alt="school-trip"><h1>Science-fair</h1><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda cum sunt aspernatur, pariatur odit, corporis libero provident nisi consequuntur incidunt ad maxime minima fugit repudiandae unde nihil. Quis, doloremque fugit!</p>
+            <img src="science-fair.jpg"alt="science-fair"><h1>Agape Academy School</h1>
+            <img src="agape.jpg"alt="sports-day"><h1>Career Day</h1>
+            <img src="career.jpg"alt="career-day"><h1></h1>
+          </div>
+        </div>
+      </div>
+
+</body>
+</html>
